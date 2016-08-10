@@ -1,4 +1,3 @@
-layout_spectrum: 0.13048073160462081
 typography_spectrum: 0.7715600030496716
 color:
   brandStrength: 0.999645572854206
@@ -6,9 +5,17 @@ color:
   saturation: 0.9569677403196692
   rhythmicContrast: 0.06553496606647968
   brandColors:
-    - '#FFFFFF'
-    - '#3B78AD'
-    - '#2B567C'
-    - '#749DC3'
-    - '#AED3E5'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.13048073160462081
+author:
+  name: John Roberts
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea8b8240-d144-464a-adb5-fea3a131af3c.png
 name: CAVUCode
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6951ec1e-8ed7-4fd2-a693-4b5a37a4035a.ico
